@@ -7,10 +7,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1622960069724232, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
-      propertyPath: m_Name
-      value: Stone Variant
-      objectReference: {fileID: 0}
     - target: {fileID: 4156729404637342, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0038375854
@@ -50,10 +46,6 @@ PrefabInstance:
     - target: {fileID: 4156729404637342, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 2.6820002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4508254565504272, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -78.15
       objectReference: {fileID: 0}
     - target: {fileID: 4587637820541112, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
       propertyPath: m_LocalPosition.x
@@ -101,7 +93,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4595787384014192, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -80.72333
       objectReference: {fileID: 0}
     - target: {fileID: 4595787384014192, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
       propertyPath: m_LocalPosition.y
@@ -170,14 +162,6 @@ PrefabInstance:
     - target: {fileID: 4664350799496168, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 3.1680002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4703083061268614, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -78.15
-      objectReference: {fileID: 0}
-    - target: {fileID: 4982211420667352, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -78.15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 093b91cb02a0557469861b1daf4e2745, type: 3}
